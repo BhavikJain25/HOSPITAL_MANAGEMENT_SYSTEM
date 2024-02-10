@@ -1,12 +1,12 @@
 # <p align="center">Hospital Management System</p> 
 
-### <p align="center">IT202 - Database Management Systems Course Project</p>
+### <p align="center"> - Database Management Systems Course Project</p>
 
 ### Contributors
 
-* Chirag Rana 		(2K21/IT/056)
-* Deepanshu Sharma	(2K21/IT/059)
-* Daksh Gupta              (2K21/IT/057)  
+* Bhavik Jain 		(219311286)
+* Deepanshu Sharma	(2K)
+* Daksh Gupta              (2K)  
 
 ## Introduction:
 
