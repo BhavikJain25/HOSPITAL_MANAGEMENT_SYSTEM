@@ -5,8 +5,7 @@
 ### Contributors
 
 * Bhavik Jain 		(219311286)
-* Deepanshu Sharma	(2K)
-* Daksh Gupta              (2K)  
+  
 
 ## Introduction:
 
